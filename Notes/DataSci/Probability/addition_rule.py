@@ -40,4 +40,4 @@ all_possible_cards = {'ace_diamond', '2_diamond', '3_diamond', '4_diamond', '5_d
 # call function here third
 print(prob_a_or_b(diamond_cards, face_cards, all_possible_cards))
 # test to commit yesterday
-# test to commit on 1980, Jan, 1st ///
+# test to commit on 1980, Jan, 1st !
